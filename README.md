@@ -1,6 +1,7 @@
 # flutter_hands_on
 
 A new Flutter project.
+Refering to https://zenn.dev/takumma/books/flutter-beginners-hands-on/viewer/first-app
 
 ## Getting Started
 
